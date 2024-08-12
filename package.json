@@ -1,6 +1,6 @@
 {
   "name": "react-native-video-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Şöhret Cumadurdu",
   "description": "A video list element for react-native",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
     "prepare": "npm run build"
   },
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/shoki61/react-native-video-list",
   "types": "lib/index.d.ts",
   "keywords": [
     "react-native",
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/shoki61/react-native-video-list"
   },
   "devDependencies": {
     "@react-navigation/native": "^6.1.18",
